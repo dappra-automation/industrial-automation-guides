@@ -1,0 +1,15 @@
+title: DAPPRA Automation Docs
+description: Industrial Automation Documentation – Indonesia
+theme: jekyll-theme-slate
+markdown: kramdown
+
+# 左侧导航配置
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# SEO 强化
+plugins:
+  - jekyll-seo-tag
