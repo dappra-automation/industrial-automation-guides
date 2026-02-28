@@ -17,3 +17,9 @@ Koleksi datasheet, spesifikasi teknis, dan wiring diagram untuk komponen otomasi
 Dokumen akurat untuk engineer, teknisi, OEM & integrator.
 
 👉 Download lebih banyak: https://dappra.com
+---
+
+## 🌐 Kunjungi Halaman Datasheet Resmi DAPPRA
+Semua datasheet dan wiring diagram produk dapat ditemukan di:
+
+👉  https://dappra.com/blog/
