@@ -18,3 +18,9 @@ Daftar lengkap produk otomasi industri dari DAPPRA Automation:
 Setiap produk memiliki datasheet, wiring, dan cara instalasi.
 
 👉 Lihat semua produk: https://dappra.com
+---
+
+## 🌐 Kunjungi Semua Produk DAPPRA
+Lihat katalog lengkap produk otomasi industri:
+
+👉 https://dappra.com/shop/
