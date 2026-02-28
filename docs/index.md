@@ -1,31 +1,93 @@
 ---
+title: Panduan Otomasi Industri Indonesia
 layout: default
-title: Industrial Automation Guides Indonesia
 ---
 
-# 🇮🇩 Industrial Automation Guides – Indonesia
+# 🇮🇩 Industrial Automation Guides – Indonesia  
+Panduan teknis lengkap untuk engineer, teknisi, OEM, dan integrator otomasi industri.
 
-Panduan lengkap untuk engineer, teknisi, OEM, dan integrator otomasi industri di Indonesia.
+Repositori ini berisi penjelasan komponen, cara kerja, wiring diagram, troubleshooting, hingga studi kasus industri.
 
-Repositori ini disusun oleh **DAPPRA Automation Indonesia**
+Dibuat oleh **DAPPRA Automation Indonesia**  
 👉 https://dappra.com
 
 ---
 
-## 📘 Daftar Panduan
-Panduan teknis otomasi industri:
+## 📚 Apa yang Ada di Dalam Panduan Ini?
 
+### 📡 Sensor Industri
+Pelajari cara kerja, jenis output, wiring, dan aplikasi dari:
 - Proximity Sensor  
 - Photoelectric Sensor  
 - Fiber Optic Sensor  
-- PLC & Ladder Logic  
-- Komunikasi PLC (Modbus/RS485)  
-- HMI & Panel Operator  
-- Konektor M12  
-- Kabel Sensor & Kontrol  
+
+➡ `/sensor/`
 
 ---
 
-## 📞 Hubungi Kami
-🌐 https://dappra.com  
-📩 support@dappra.com
+### 🧠 PLC & Sistem Kontrol
+Dokumentasi dasar hingga lanjutan:
+- Apa itu PLC?  
+- Ladder Logic  
+- Digital & Analog I/O  
+- Modbus RS485 / Ethernet  
+
+➡ `/plc/`
+
+---
+
+### 🖥️ HMI & Panel Operator
+Panduan desain tampilan, komunikasi, dan monitoring:
+- Jenis HMI  
+- Setting komunikasi  
+- Alarm & Visualization  
+
+➡ `/hmi/`
+
+---
+
+### 🔗 Konektor & Kabel Industri
+Informasi lengkap konektor dan kabel industri:
+- M12 A/B/D/X  
+- Sensor cable  
+- Control cable  
+
+➡ `/connector/`
+
+---
+
+### ⚙️ Motor & Penggerak
+Dokumentasi motor dan driver:
+- Stepper motor  
+- Servo motor  
+- Driver setting  
+
+➡ `/motor/`
+
+---
+
+### 📄 Datasheet & Wiring Diagram
+Dokumen teknis dan spesifikasi produk:
+- Proximity sensor datasheet  
+- Stepper motor datasheet  
+- Wiring diagram industri  
+
+➡ `/datasheet/`
+
+---
+
+### 📦 Produk Otomasi Industri
+Katalog produk resmi DAPPRA Automation:
+- Sensor  
+- Motor  
+- Driver  
+- Controller  
+- Konektor  
+
+➡ `/product/`
+
+---
+
+## 📞 Kontak & Dukungan
+🌐 Website: https://dappra.com  
+📩 Email: support@dappra.com
