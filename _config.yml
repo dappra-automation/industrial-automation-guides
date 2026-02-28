@@ -13,3 +13,4 @@ defaults:
 # SEO 强化
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
