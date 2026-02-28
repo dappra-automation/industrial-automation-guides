@@ -14,3 +14,9 @@ Kategori ini mencakup:
 - Sensor posisi untuk conveyor & mesin  
 
 Gunakan panduan ini untuk memahami cara memilih sensor yang tepat untuk kebutuhan industri Anda.
+---
+
+## 🌐 Kunjungi Kategori Sensor di Website DAPPRA
+Produk sensor industri, katalog resmi, dan panduan penggunaan tersedia di:
+
+👉 https://dappra.com/product-category/sensor/
