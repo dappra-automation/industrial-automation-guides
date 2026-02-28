@@ -15,3 +15,9 @@ Isi panduan:
 - Pemilihan kabel untuk lingkungan industri
 
 👉 Konsultasi teknis: https://dappra.com
+---
+
+## 🌐 Kunjungi Kategori Connector & Cable di Website DAPPRA
+Konektor M12, kabel sensor, dan kabel kontrol resmi tersedia di:
+
+👉 https://dappra.com/product-category/industrial_connectors/
