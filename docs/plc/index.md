@@ -18,3 +18,9 @@ Topik yang dibahas:
 Dokumen ini membantu engineer & teknisi memahami kontrol industri dari dasar hingga aplikasi.
 
 👉 Info lengkap: https://dappra.com
+---
+
+## 🌐 Kunjungi Kategori PLC di Website DAPPRA
+Informasi PLC, controller, dan modul ekspansi tersedia di:
+
+👉 https://dappra.com/product-category/perangkat-kontrol-otomasi/programmable-logic-controller/
