@@ -99,28 +99,20 @@ Katalog produk resmi DAPPRA Automation:
 <p>
 Official Website:
 <a href="https://dappra.com" target="_blank">
-DAPPRA Industrial Automation
+DAPPRA Industrial Automation Indonesia
 </a>
 </p>
 
 <p>
-Industrial Products:
-<a href="https://dappra.com/shop/" target="_blank">
-Industrial Automation Product Catalog
-</a>
-</p>
-
-<p>
-Automation Guides:
+Industrial Automation Guides:
 <a href="https://dappra.com/category/automation/" target="_blank">
-Industrial Automation Tutorials
+Industrial Automation Tutorials & Technical Guides
 </a>
 </p>
-<a href="https://dappra.com">
-DAPPRA Automation Indonesia
-</a>
 
-<a href="https://dappra.com/category/automation/">
-Industrial Automation Guides
+<p>
+Industrial Sensor Solutions:
+<a href="https://dappra.com/product-category/sensor/" target="_blank">
+Industrial Sensors & Machine Safety Solutions
 </a>
-<!-- force rebuild -->
+</p>
