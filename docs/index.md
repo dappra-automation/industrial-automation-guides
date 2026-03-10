@@ -91,4 +91,29 @@ Katalog produk resmi DAPPRA Automation:
 ## 📞 Kontak & Dukungan
 🌐 Website: https://dappra.com  
 📩 Email: support@dappra.com
+
+<hr>
+
+<h3>DAPPRA Automation Indonesia</h3>
+
+<p>
+Official Website:
+<a href="https://dappra.com" target="_blank">
+DAPPRA Industrial Automation
+</a>
+</p>
+
+<p>
+Industrial Products:
+<a href="https://dappra.com/shop/" target="_blank">
+Industrial Automation Product Catalog
+</a>
+</p>
+
+<p>
+Automation Guides:
+<a href="https://dappra.com/category/automation/" target="_blank">
+Industrial Automation Tutorials
+</a>
+</p>
 <!-- force rebuild -->
