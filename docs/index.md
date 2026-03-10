@@ -116,4 +116,11 @@ Automation Guides:
 Industrial Automation Tutorials
 </a>
 </p>
+<a href="https://dappra.com">
+DAPPRA Automation Indonesia
+</a>
+
+<a href="https://dappra.com/category/automation/">
+Industrial Automation Guides
+</a>
 <!-- force rebuild -->
